@@ -128,3 +128,5 @@ To create a predictive model for stock returns, you typically follow these steps
 7. **Visualization**: Plot the actual vs. predicted stock prices to visually assess the model's performance.
     
 8. **Trading Strategy Implementation**: Develop a basic trading strategy based on the model's predictions.
+
+<img src"\images\Figure_1">
